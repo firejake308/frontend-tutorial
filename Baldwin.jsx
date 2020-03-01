@@ -1,0 +1,1 @@
+const baldwin = () => <p>Hi I am Baldwin!</p>;
